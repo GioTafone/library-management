@@ -1,1 +1,1 @@
-export const origin = "fs12-fullstack-1184.vercel.app"
+export const origin = "https://fs12-fullstack-1184.vercel.app"
