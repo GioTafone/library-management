@@ -1,1 +1,1 @@
-export const origin = "http://localhost:5050"
+export const origin = "fs12-fullstack-1184.vercel.app"
