@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Basic:ital@0;1&family=Space+Grotesk&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply box-border m-0 p-0 ;
+  }
+
+  body { 
+    @apply w-auto overflow-x-hidden bg-primaryBlue font-BodyFont
+  }
+}
