@@ -48,11 +48,3 @@ yarn start:dev
 2. You can complete your project using SASS, CSS, or other styling libraries
 
 <br />
-
-## Requirements of the project:
-
-Check the REST API slides for what are the required features
-
-*you are allowed to add more features if you finish the required ones.*
-
-<br />
