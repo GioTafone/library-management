@@ -32,8 +32,3 @@ To run the `backend` make sure you are under the api folder and:
 ````bash
 yarn start:dev
 ````
-
-1. Create a `.env` file in the root directory if you need to store secret data
-2. You can complete your project using SASS, CSS, or other styling libraries
-
-<br />
